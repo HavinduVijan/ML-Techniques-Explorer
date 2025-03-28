@@ -54,9 +54,3 @@ print("2. Unsupervised Learning → Clustering & Dimensionality Reduction")
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1kZ2J6d3FyY2V4d3F1bXJxZ3JqZ2VzM2V6dWJtZ2NqZ3B6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="200">
-  <p>Exploring the frontiers of machine learning</p>
-</div>
-```
